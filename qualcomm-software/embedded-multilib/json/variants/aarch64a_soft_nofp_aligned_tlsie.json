@@ -8,7 +8,7 @@
             "ENABLE_RTTI": "OFF",
             "TEST_EXECUTOR": "qemu",
             "QEMU_MACHINE": "virt",
-            "QEMU_CPU": "max",
+            "QEMU_CPU": "cortex-a57",
             "FLASH_ADDRESS": "0x40000000",
             "FLASH_SIZE": "0x01000000",
             "RAM_ADDRESS": "0x41000000",
