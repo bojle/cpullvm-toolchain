@@ -122,6 +122,13 @@ def main():
             variants=[
                 "aarch64a_tlsie",
                 "aarch64a_aligned_tlsie",
+                "aarch64a_pacret",
+                "aarch64a_pacret_bti",
+                "aarch64a_pacret_bkey_bti_aligned_tlsie",
+                "aarch64a_pacret_bkey_bti_tlsie",
+                "aarch64a_soft_nofp_pacret_bkey_bti",
+                "aarch64a_soft_nofp_pacret_bti",
+                "aarch64a_soft_nofp_pacret_bti_aligned",
                 "riscv64gc_lp64d_nopic",
                 "riscv64gc_lp64_nopic",
                 "riscv64gc_zba_zbb_lp64d_nopic",
